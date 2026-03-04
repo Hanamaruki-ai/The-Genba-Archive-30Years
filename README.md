@@ -174,7 +174,7 @@ This archive is optimized for **Google NotebookLM**. By leveraging AI, you can c
     * [EN] Extract the Markdown (.md) files. These files contain structured text designed for high-precision AI indexing.
     * [JP] Markdown（.md）ファイルを解凍します。これらはAIが極めて正確にインデックス（索引）を作成できるように構造化されたテキストデータです。
 * **Sign-in / サインイン**
-    * [EN] Access [NotebookLM](https://notebooklm.google.com/) (Free Version) with your Google Account.
+    * [EN] Access  [NotebookLM](https://notebooklm.google.com/) (Free Version) with your Google Account.
     * [JP] お持ちのGoogleアカウントで [NotebookLM](https://notebooklm.google.com/)（無料版）にアクセスしてください。
 
 ---
@@ -242,6 +242,19 @@ Using the **"Studio"** panel, you can generate the following (subject to daily f
 ### システムの状態により、NotebookLMが自動的に要約を提案する場合があります。もし自動で開始されない場合は、画面右側の「スタジオ（Studio）」パネルにある**「作成（Generate）」**または各コンテンツのボタンを自分で押すことで、学習資料や動画・音声の生成を開始できます。
 
 ---
+
+---
+
+## 📂 Download Assets (Google Drive Hub)
+## 📂 資料ダウンロード（Google ドライブ・ハブ）
+
+[English]
+Due to GitHub's file size limits, all high-quality video, audio, and large ZIP archives are hosted on Google Drive. 
+**[👉 Access the Public Archive Hub](https://drive.google.com/drive/folders/18h-H9GxsRt-GEtEjuMevuMRmi683WtE4?usp=sharing)**
+
+[日本語]
+GitHubのファイルサイズ制限により、高画質な動画・音声資産および大型のZIPアーカイブはすべてGoogle ドライブで公開しています。
+**[👉 公開アーカイブ・ハブにアクセスする](https://drive.google.com/drive/folders/18h-H9GxsRt-GEtEjuMevuMRmi683WtE4?usp=sharing)**
 
 ---
 
