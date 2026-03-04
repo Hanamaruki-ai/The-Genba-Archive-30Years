@@ -318,6 +318,14 @@ Do Not Deify AI: Emphasize that AI is an 'Automated Loss Generator' if the under
 
 ---
 
+# 📝 A Note to the Learner / 学習者へのメッセージ
+### [English]
+## This learning experience requires your active participation. By manually copying and pasting the "Professional Prompts" into the chat, you are not just using an AI; you are training your own perspective to see the structural truth of the industry.
+### [日本語]
+## この学習体験には、あなた自身の能動的な参加が必要です。「プロ仕様のプロンプト」を自らコピー＆ペーストしてチャットに入力するプロセスそのものが、単にAIを使うだけではなく、産業の構造的真実を見抜くための「あなた自身の視点」を鍛える訓練になります。
+
+---
+
 ---
 
 ## 📂 Download Assets (Google Drive Hub)
