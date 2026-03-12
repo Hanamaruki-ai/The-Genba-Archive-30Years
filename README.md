@@ -504,6 +504,7 @@ Each volume is a complete study package designed to be decrypted by AI.
 (https://note.com/cheeky_daisy8872/m/m5b25a8096362)
 
 ---
+---
 
 ＃　Final Message from the Author / 著者より最後のメッセージ
 ### [English]
@@ -519,3 +520,35 @@ Each volume is a complete study package designed to be decrypted by AI.
 ## 「現場」は常に社会の鼓動そのものでした。私たちが直面した構造的浸食を明らかにすることで、人間の直感とAIが真に共進化できる未来を築くための知恵を提供したいと願っています。
 
 私たちの失敗を繰り返さないでください。このデータを使って、より良く、よりしなやかな世界を創造してください。
+
+---
+
+## 📂 Project Rooms (Development Logs) / プロジェクトルーム（開発の軌跡）
+
+**English:**
+To ensure the transparency and depth of this curriculum, I am opening the "AI Project Rooms" where the framework for these materials was built. These logs show the raw, iterative process of **"Wall-Kicking"** (rigorous validation) between human experience and AI analysis. 
+
+We have published two main rooms, translated into English to provide a clear understanding of the structural breakdown of the manufacturing frontline.
+
+**日本語：**
+本教材の透明性と深みを担保するため、これらの資料が構築された「AIプロジェクトルーム（対話ログ）」を公開します。30年の現場経験とAIの分析を戦わせ、構造を浮き彫りにしていった**「壁打ち」**のプロセスをすべて記録しています。
+
+日本語で行われた対話を英訳し、構造がはっきりと理解できるよう2つの主要なルームに分けて公開しています。
+
+---
+
+### 1️⃣ Project Room Vol. 1: Structural Analysis & Strategy
+#### （第1部：構造分析と戦略構築）
+
+* **English:** This room focuses on the foundational "30-Year Structural Reform Theory" and the initial breakdown of why modern efficiency kills future growth. It captures the birth of the core concepts used in this archive.
+* **日本語：** 「現場30年の構造改革論」の土台となる理論構築を行いました。現代の効率化がなぜ未来の成長を阻害するのか、その核心的なコンセプトが誕生した瞬間の記録です。
+* **[🔗 View Project Room 1](https://notebooklm.google.com/notebook/d79fb5a0-47b8-4bc0-b1da-f929c95f6e06?authuser=1)**
+
+---
+
+### 2️⃣ Project Room Vol. 2: AI Implementation & The Human Gap
+#### （第2部：AI導入と現場の溝）
+
+* **English:** This room explores the "Illusion of AI Agents" and the critical gap between high-level management data and the hollowed-out reality of the shop floor. It details the struggle to find where AI truly fits in a perfected manufacturing line.
+* **日本語：** 「AIエージェントの錯覚」を中心に、経営陣が抱くデータ上の幻想と、空洞化した現場のリアルな溝（ギャップ）をどう埋めるかを追求。完成された製造ラインにおけるAIの真の居場所を模索した対話です。
+* **[🔗 View Project Room 2](https://notebooklm.google.com/notebook/f7b88506-4c3a-4244-9151-7ec1ff1d8262?authuser=1)**
